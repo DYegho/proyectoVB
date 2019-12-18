@@ -1,0 +1,15 @@
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\bin\Debug\Diccionario_Terminado.exe.config
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\bin\Debug\Diccionario_Terminado.exe
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\bin\Debug\Diccionario_Terminado.pdb
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\bin\Debug\Diccionario_Terminado.xml
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.vbprojAssemblyReference.cache
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.Resources.resources
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.vbproj.GenerateResource.cache
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.vbproj.CoreCompileInputs.cache
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.exe
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.xml
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.pdb
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.Ventana1.resources
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.Ventana2.resources
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.Ventana3.resources
+C:\Users\dyego\source\repos\Diccionario_Terminado\Diccionario_Terminado\obj\Debug\Diccionario_Terminado.Ventana4.resources
